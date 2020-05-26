@@ -10,3 +10,6 @@
 [submodule "PyPARIS_sim_class"]
 	path = PyPARIS_sim_class
 	url = https://github.com/PyCOMPLETE/PyPARIS_sim_class.git
+[submodule "lowtran"]
+	path = lowtran
+	url = https://github.com/space-physics/lowtran.git
