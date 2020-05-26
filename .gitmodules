@@ -1,0 +1,12 @@
+[submodule "PyPIC"]
+	path = PyPIC
+	url = https://github.com/PyCOMPLETE/PyPIC.git
+[submodule "PyECLOUD"]
+	path = PyECLOUD
+	url = https://github.com/PyCOMPLETE/PyECLOUD.git
+[submodule "PyPARIS"]
+	path = PyPARIS
+	url = https://github.com/PyCOMPLETE/PyPARIS.git
+[submodule "PyPARIS_sim_class"]
+	path = PyPARIS_sim_class
+	url = https://github.com/PyCOMPLETE/PyPARIS_sim_class.git
